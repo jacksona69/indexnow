@@ -45,3 +45,9 @@ https://example.com/indexnow.php
 ## Licence
 
 MIT
+
+Created by Adam Jackson of JaxMore Food & Drink Photography.
+
+If you find it useful, feel free to use or modify it.
+
+Website: [https://jaxmore.com/](https://jaxmore.com/)
