@@ -46,8 +46,8 @@ https://example.com/indexnow.php
 
 MIT
 
-Created by Adam Jackson of JaxMore Food & Drink Photography.
+
+
+Created by Adam Jackson of [JaxMore Food & Drink Photography](https://jaxmore.com/).
 
 If you find it useful, feel free to use or modify it.
-
-Website: [https://jaxmore.com/](https://jaxmore.com/)
