@@ -13,7 +13,7 @@ A simple password-protected PHP utility that automatically reads your `sitemap.x
 
 ## Screenshots
 
-![Login & Dashboard](IndexNow.png)
+![Login & Dashboard](/IndexNow.png)
 
 ## Requirements
 
