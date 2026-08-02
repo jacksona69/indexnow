@@ -11,6 +11,10 @@ A simple password-protected PHP utility that automatically reads your `sitemap.x
 - No database required
 - Single PHP file
 
+## Screenshots
+
+![Login & Dashboard](indexnow.png)
+
 ## Requirements
 
 - PHP 7.4+
